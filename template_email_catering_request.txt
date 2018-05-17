@@ -1,0 +1,18 @@
+﻿Hi Whitney,
+When you have a chance, could you send me a catering estimate for a workshop event I’m planning for [dates]? Here are the details and what I’m thinking of:
+
+Software Carpentry Workshop
+[dates]
+[Location]
+8:30 am – 4:30 pm both days
+Maximum of [number] people, minimum of [number] people
+Catering would include delivery/setup and morning and afternoon breaks on both days. I am looking at the following items:
+Morning beverages: coffee, hot tea, iced water (both days)
+Afternoon beverages: coffee, hot tea, iced water (both days)
+Morning snacks: granola bar/breakfast cookie combo (one day); doughnut hole/mini muffin combo (one day)
+Afternoon snacks: cookie/rice krispy bar combo (one day); brownie/rice krispy bar combo (one day)
+
+[sponsor/funding information]
+
+Thanks so much!
+[host or organizer name]

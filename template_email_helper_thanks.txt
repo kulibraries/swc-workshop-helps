@@ -1,0 +1,13 @@
+Subject:
+Software Carpentry - Thank you!
+
+Body:
+Hi (name of helper),
+I want to take a moment to thank you for your help at our recent Software Carpentry workshop on [dates]. You helped make the workshop a great one for our attendees and instructors. Without helpers like you to confirm software installations, watch for learners' distress signals, and prompt the instructors to adapt their teaching to the learners' needs, these workshops would not succeed. 
+
+[Optional note specific to that helper's role or actions]
+
+Congratulations on a successful workshop - thanks to you! - and thanks again.
+Best,
+(your name)
+

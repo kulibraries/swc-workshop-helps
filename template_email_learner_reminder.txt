@@ -1,0 +1,20 @@
+﻿Greetings!
+We are looking forward to seeing you [days and dates], for Software Carpentry @ KU. There are a few things you’ll need to do before Tuesday morning.
+ 
+If you haven’t already done so, please review the workshop details, requirements, and schedule at the workshop’s GitHub page:
+https://kulibraries.github.io/[workshop-name]/
+
+If you are a visitor to KU, you may also want to review information on visitor parking: http://parking.ku.edu/visitor-parking
+ 
+Then take the pre-workshop survey. This will take between 5 and 10 minutes.
+[insert link]
+ 
+Finally, prepare your computer for the workshop by reviewing the Setup information on the workshop’s GitHub page:
+https://kulibraries.github.io/[workshop-name]/#setup
+You will need the indicated software, a free GitHub account, and an up-to-date web browser during the workshop. Software installation instructions are included in the Setup section. If you have trouble with installing or setting up any of the software, helpers will be available to assist you in [location] starting at 8:30am on both mornings of the workshop.
+ 
+If you find that you are unable to attend the workshop, please cancel your registration through your Eventbrite ticket no later than 8:30am on [cancellation day], in order to receive your refunded deposit and give someone on the wait list a chance to attend.
+ 
+Feel free to contact us with any questions. See you soon!
+
+[Organizer, Host, or Instructor names and contact info]

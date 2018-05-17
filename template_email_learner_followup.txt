@@ -1,0 +1,20 @@
+﻿Subject:
+Software Carpentry - follow-up
+
+Body:
+Hi everyone,
+
+
+Thank you for attending the Software Carpentry workshop on [dates]! We hope you found it helpful. 
+
+Please take a few moments to fill out our post-workshop survey [surveymonkey link]. This feedback helps your instructors, helpers, and the larger Software Carpentry community improve.
+
+
+
+We’ve updated the workshop etherpad with the lesson materials, references, and additional resources. You can check these out at [etherpad link]. Remember that the etherpad is available for you at any time to help you refresh your learning.
+
+
+Do get in touch if you have questions!
+
+Best,
+[instructor name(s)]

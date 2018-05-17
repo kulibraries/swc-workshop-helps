@@ -1,0 +1,16 @@
+﻿Greetings!
+
+Thanks so much for agreeing to help with the Software Carpentry Workshop coming up on [dates]. This email offers some details specific to your role as a helper; if you have any questions, feel free to get in touch with Jamene or Boryana (contact information below). Details specific to learners are available on the workshop page. We recommend that you review those details, particularly the code of conduct and software setup instructions, prior to the workshop: https://kulibraries.github.io/[workshop-name]/
+
+There is no need for you to register for the workshop in order to help. If you have registered, please cancel that reservation to free up a ticket for a learner.
+
+The workshop will take place in the [location] on KU’s Lawrence campus from 8:30 am – 4:30 pm on both days. Please arrive by 8:30 am if you are helping during the morning topic. Although the session begins at 9:00, many learners will arrive without their software pre-installed (particularly on the first day) and it’s important to have time to help everyone start the topic with the tool working on their own computer. In the event of wireless issues, the instructors are preparing USB drives containing the necessary installers for Windows and Mac. 
+
+Boryana has drafted an initial schedule of which helpers will be available during which topics. Please review your schedule at the Google doc (link) and make any necessary corrections by [day and date]. We will send out another email approximately one week before the workshop with some more details and any last-minute instructions.
+
+Thank you so much again for joining us as a helper for Software Carpentry @ KU! Please let us know if you have any questions.
+
+Best,
+Jamene Brooks-Kieffer (jamenebk@ku.edu), host and organizer
+Boryana Koseva (boryana@ku.edu), co-instructor
+
