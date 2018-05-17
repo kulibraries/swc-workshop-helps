@@ -3,13 +3,13 @@
 
 This repository includes files that can be helpful to administering and running  Carpentries workshops hosted at the University of Kansas.
 
-#### Text files to easily include in etherpad
+#### Text files to easily include in workshop etherpad
 * Resources_to_Continue_Learning.[md|txt|pdf]
     * A list of links to addition resources that learners can access after workshops. This can be sent out via Eventbrite or other email systems
 * git_collaboration.txt
     * The outline of steps that learners will work through on the *Countries Git/GitHub Collaboration* exercise.
 * git_editors.txt
-    * A list of 3rd party editors and how to install them for use by Git
+    * A list of 3rd party editors and how to configure Git to use them
 
 #### Admin files
 * template_email_catering_request.txt
@@ -22,13 +22,12 @@ This repository includes files that can be helpful to administering and running 
 	* Text for contacting learners no more than one week after after the workshop
 * template_email_learner_reminder.txt
 	* Text for reminding learners of the upcoming workshop and need for installing appropriate software in advance. Send out approximately one week prior to the workshop.
-* gather_screen.rtfd
-    * A nice gathering screen that shows the links to the course website and the course etherpad. In addition, asks to have learners fill out the pre-workshop evaluation.
 * template_ku_etherpad.etherpad
     * This template file is uploaded prior to a workshop to the workshop's etherpad. Modify the etherpad to include correct information for that workshop.
 * template_ku_swc_report.md
     * A markdown template file for use in preparing the final workshop report to be sent in to the Carpentries Foundation after a workshop has been hosted.
-
+* template_slides_swc_intro.pptx
+    * An introductory slide show that includes sponsor names, instructors, helpers, and housekeeping details, e.g.: restroom and restaurant locations, links to workshop website and etherpad. Asks learners to complete pre- and post-workshop surveys.
 
 #### Programs/software
 
