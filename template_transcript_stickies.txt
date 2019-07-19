@@ -1,0 +1,25 @@
+[Day 1, Date]
+Bash Shell
+Positive (blue):
+
+Negative (yellow)
+
+
+[programming lesson Day 1]
+Positive (blue)
+
+Negative (yellow)
+
+
+
+[Day 2, Date]
+Git and GitHub
+Positive (blue)
+
+Negative (yellow)
+
+
+[programming lesson Day 2]
+Positive (blue)
+
+Negative (yellow)
