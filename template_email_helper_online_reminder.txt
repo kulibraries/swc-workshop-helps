@@ -1,0 +1,21 @@
+﻿Executive summary of links you will need:
+Workshop site:
+Workshop Etherpad:
+Zoom registration for software installation office hours: 
+
+Greetings!
+
+Thanks so much for agreeing to help with one or more sessions of the Software Carpentry Workshop coming up [days] [dates]. This email contains details specific to your role as a helper; if you have any questions, feel free to get in touch with me (contact information below). Prior to your workshop session(s), review the code of conduct and software requirements for learners: https://kulibraries.github.io/[workshop-name]/
+
+The workshop will take place over Zoom [times] on all days. The Zoom room will open at approximately [time] and will open to learners at approximately [time]. Please arrive a few minutes ahead of [start time] if possible in case early-arriving learners need assistance with software. Calendar appointments containing Zoom connection information for each session are attached to this email for your convenience.
+
+Helping in the online environment is a bit different from helping in an in-person workshop. We will be using Zoom's participant nonverbal feedback tools to get the “sticky note” signals you may have seen in in-person workshops. Helpers watch for those signals, watch the chat, and, depending on how many helpers are in a session, one helper can take some notes in the Etherpad shared document. If a learner is encountering serious difficulty, a helper can join them in a breakout room. Helpers are also listening to the instructor and can ask questions on behalf of learners if, e.g., the instructor is going too fast.
+
+Each session will include a Zoom room host separate from the instructor. We'll walk through these roles at the beginning of each session. As you encounter the need for a breakout room or other host responsibilities, please alert the room host rather than the instructor.
+
+Learners will be receiving a separate reminder email to help them prepare for the workshop. You will receive a copy of this message so you are familiar with the requirements. Your help is welcome during drop-in Zoom office hours to assist with software installation, scheduled for [day, date, time]. Register for this drop-in time at [Zoom registration link] and attend as you are able.
+
+Thank you so much again for helping with Software Carpentry at KU! Please let me know if you have any questions.
+
+Best,
+[Organizer, Host, or Instructor names and contact info]
