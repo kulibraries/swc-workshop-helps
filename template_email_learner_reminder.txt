@@ -1,5 +1,5 @@
 ﻿Greetings!
-We are looking forward to seeing you [days and dates], for Software Carpentry @ KU. There are a few things you’ll need to do before Tuesday morning.
+We are looking forward to seeing you [days and dates], for Software Carpentry @ KU. There are a few things you’ll need to do before [day name] morning.
  
 If you haven’t already done so, please review the workshop details, requirements, and schedule at the workshop’s GitHub page:
 https://kulibraries.github.io/[workshop-name]/
