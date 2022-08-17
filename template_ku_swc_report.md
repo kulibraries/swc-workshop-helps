@@ -32,6 +32,7 @@
 Record how learners accessed software taught during the workshop. Common options are:
 
 * Install workshop software to individuals' computers
+* Learners use institution-owned computers in a classroom or computer lab
 * Carpentries-supplied Amazon Machine Instances (this option is only true for Data Carpentry Genomics)
 * Install Docker to individuals' computers and access workshop software in a Docker container
 * Provide learners with access to a remote computing instance
