@@ -27,6 +27,8 @@ This repository includes files that can be helpful to administering and running 
 	* Text for thanking workshop helpers after the workshop
 * template_email_learner_followup.txt
 	* Text for contacting learners no more than one week after after the workshop
+* template_email_learner_online_connection.txt
+	* Text for distributing connection information for online workshops. Schedule send for the day before the first day of an online workshop.
 * template_email_learner_online_reminder.txt
 	* Text for reminding learners of an upcoming online workshop and need for installing appropriate software in advance. Send out approximately one week prior to the workshop or include in registration confirmation.
 * template_email_learner_reminder.txt
