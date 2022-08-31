@@ -1,0 +1,14 @@
+Scheduling:
+Schedule distribution via Eventbrite for approx. 3pm the day before the workshop.
+
+Subject:
+Zoom Information for [workshop topic]
+
+Body:
+Hello! Please see below for the Zoom information to join the workshop. The Zoom room will open for learners at [time]; this is a good time to get help and ask questions. The workshop will begin promptly at [time].
+
+[workshop topic/title]
+
+[Day, date, and time, including time zone and UTC offset]
+
+[full Zoom invitation]
