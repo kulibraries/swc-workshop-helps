@@ -31,6 +31,8 @@ This repository includes files that can be helpful to administering and running 
 	* Text for distributing connection information for online workshops. Schedule send for the day before the first day of an online workshop.
 * template_email_learner_online_reminder.txt
 	* Text for reminding learners of an upcoming online workshop and need for installing appropriate software in advance. Send out approximately one week prior to the workshop or include in registration confirmation.
+* template_email_learner_online_guilt_reminder.txt
+	* Text for reminding learners to cancel registration if they are not planning to attend. Also contains option for communicating connection information for a remote computing resource if used during the workshop. Send out four working days prior to the workshop.
 * template_email_learner_reminder.txt
 	* Text for reminding learners of an upcoming in-person workshop and need for installing appropriate software in advance. Send out approximately one week prior to the workshop or include in registration confirmation.
 * template_ku_etherpad.etherpad
