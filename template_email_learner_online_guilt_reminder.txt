@@ -1,0 +1,30 @@
+Subject: [workshop topic] (optional if using remote computing) and [software] access
+
+You've registered for [workshop topic] coming up on [days and dates]. Your instructors are looking forward to engaging with you about this powerful tool!
+
+We know that plans change and life happens. If you do not plan to attend [day]'s workshop, please cancel your registration through your Eventbrite ticket so that someone from the wait list can attend.
+
+--- below section is optional; include if using remote computing ---
+--- update sign on instructions as necessary ---
+
+During this workshop we will be accessing [software] and the workshop data through a remote computing interface. Please log in to the resource at least one day before the workshop begins. Your first login may take some time to build but subsequent logins should go quickly. Here are the steps to log in:
+
+Address: [resource URL]
+Click “Sign in with CILogon”
+In the “Select an Identity Provider” box, pull down the menu and search for University of Kansas. Click Log On.
+You will be routed to KU Single Sign On, where you can authenticate.
+Once you have signed in, you will see Server Options. Choose [server name] and click Start. (optional if data is included) Your file explorer on the left should contain a directory called [directory name] – this directory contains the data for the workshop.
+The server will start; you will see the blue bar move as resources are assigned and the image builds. On first login, this may take 5 minutes or so. You don’t need to do anything while the image builds.
+When everything is ready, you will see a Jupyter Notebook interface in your browser window.
+When you are ready to close the instance, go to File and choose Log Out. Once the server has closed you can close your browser tab.
+
+
+Please get in touch with any questions!
+
+Jamene Brooks-Kieffer
+Data Services Librarian
+University of Kansas
+jamenebk@ku.edu
+
+
+Schedule in Eventbrite for the Tuesday before a Friday workshop, or 4 working days before a workshop.
