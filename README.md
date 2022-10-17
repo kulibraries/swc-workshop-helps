@@ -36,7 +36,7 @@ This repository includes files that can be helpful to administering and running 
 * template_email_learner_reminder.txt
 	* Text for reminding learners of an upcoming in-person workshop and need for installing appropriate software in advance. Send out approximately one week prior to the workshop or include in registration confirmation.
 * template_host_workshop_intro_online.txt
-        * Text to guide room hosts of online workshops in introducing the online workshop environment
+	* Text to guide room hosts of online workshops in introducing the online workshop environment
 * template_ku_etherpad.etherpad
     * This template file is uploaded prior to an in-person workshop to the workshop's etherpad. Modify the etherpad to include correct information for that workshop.
 * template_ku_online_etherpad.etherpad
