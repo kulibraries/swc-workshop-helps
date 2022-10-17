@@ -1,0 +1,100 @@
+Quick reference links:
+
+Workshop link: 
+
+Etherpad link: 
+
+Online meeting link and passcode:
+
+Lesson material link(s):
+
+Workshop Session Anonymous Feedback link:
+
+
+*****************************************************
+
+Before the workshop begins, ask workshop personnel to change their screen names:
+
+Name | Role | Operating System
+
+Roles:
+- Host
+- Instructor
+- Helper
+
+Operating System:
+- Name the computer operating system you're most familiar with for software installation and troubleshooting purposes
+
+*****************************************************
+10 minute introduction to an online workshop
+
+In this section:
+- Workshop introductions
+- Zoom Setup
+- Getting Help
+
+*****************************************************
+WORKSHOP INTRODUCTIONS
+
+1. Introduce self
+2. Helpers and Instructors, introduce yourself
+   - Use Zoom names to designate instructor, helper, room host, operating system
+   - Which helper is keeping notes in the Etherpad? - add Etherpad to your name
+3. Identify the Room Host, who is in charge of:
+   - Connecting learners with helpers
+   - Creating breakout rooms if we need them
+   - Clearing the nonverbal responses as we address them
+4. Invite learners to add something about themselves in their Zoom name
+   - e.g.: pronouns, department or discipline
+5. Share links to workshop page, lesson material, and Etherpad
+   - We will use the Etherpad for shared notes that a helper takes. Use this document as much or as little as you want. In an online workshop, it can be hard to pay attention to one more window. The Etherpad is for the whole workshop and will persist, so you can visit the notes at any time during or after the workshop.
+6. Carpentries Code of Conduct
+   - Participating in the workshop means that you agree to abide by The Carpentries Code of Conduct: (your workshop link)/#code-of-conduct
+   - In brief, this is a welcoming and inclusive space that includes many different viewpoints and experiences. In this workshop we are courteous and respectful of each other in order to create a positive learning environment.
+   - Code of Conduct incidents can be reported using the blue button on the workshop GitHub page - (your workshop link)
+
+We will break at (insert break schedule if known).
+
+*****************************************************
+ZOOM SETUP
+
+Open Reactions section (may need to show how)
+Demo options; emphasize persistent reactions (raise hand, green check, red x), so we'll use this when we need to gauge how things are going.
+You can use other reactions, but they disappear after 10 seconds.
+
+Test Reactions by checking for software installation and data download.
+
+Open Chat if you haven't already
+- We will use Zoom chat for getting help and asking questions.
+- You can chat everyone or privately chat a specific person, such as a helper or the room host
+- You can save the chat at any time (tell/show how)
+
+When screen share starts, your Participant and Chat windows may go away. Tell how to get them back, even if you hide them behind other windows.
+
+Manage your screen space:
+With 1 monitor:
+- Split your screen between the Zoom screen share and your work space
+- Have Participant and Chat available but minimized
+- Have Browser available but minimized
+
+With multiple monitors:
+- Prioritize the Zoom screen share and your work space
+- Park Participant and Chat windows in a different monitor
+- Park Browser in a different monitor
+
+With two devices:
+- If you are joining the Zoom room on one device and following the lesson on a different device, please let a helper know this when you reach out for help.
+
+*****************************************************
+GETTING HELP
+
+Zoom chat is our primary method for getting help.
+Chat a helper or the room host privately, or ask a question for everyone to see
+Your question is also someone else's question!
+Helpers have included their primary operating system in their screen name to help you match your question to their experience.
+
+We will try to address all help needs in the main Zoom room.
+If an issue is complicated, the Room Host may invite you to a breakout room with a helper.
+Whether you are in the main room or a breakout room, be prepared to share your screen by minimizing any private windows you have open (e.g. email). If you need to share your screen, you may also need to make the text in that window bigger so that the helper can read it.
+
+*****************************************************
