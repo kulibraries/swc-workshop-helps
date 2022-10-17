@@ -43,6 +43,8 @@ This repository includes files that can be helpful to administering and running 
     * This template file is uploaded prior to an online workshop to the workshop's etherpad. Modify the etherpad to include correct information for that workshop.
 * template_ku_swc_report.md
     * A markdown template file for use in preparing the final workshop report after a workshop has been hosted. The report is useful for institutional Carpentries memberships, sponsors, and administrators.
+* template_slides_online.pptx
+	* Introductory and break slides for screen sharing during an online workshop
 * template_slides_swc_intro.pptx
     * An introductory slide show that includes sponsor names, instructors, helpers, and housekeeping details, e.g.: restroom and restaurant locations, links to workshop website and etherpad. Asks learners to complete pre- and post-workshop surveys.
 * template_transcript_stickies.txt
